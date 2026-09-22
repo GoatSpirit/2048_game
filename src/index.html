@@ -7,6 +7,7 @@
       content="width=device-width, initial-scale=1.0"
     />
     <title>2048</title>
+    <!-- Fixed line endings -->
     <link
       rel="stylesheet"
       href="./styles/main.scss"
@@ -61,10 +62,13 @@
         <p class="message message-lose hidden">You lose! Restart the game?</p>
         <p class="message message-win hidden">Winner! Congrats! You did it!</p>
         <p class="message message-start">
-          Press "Start" to begin game. Good luck!
+          Press "Start" to begin. Use arrow keys or swipe the board.
         </p>
       </div>
     </div>
-    <script src="scripts/main.js"></script>
+    <script
+      type="module"
+      src="scripts/main.js"
+    ></script>
   </body>
 </html>
