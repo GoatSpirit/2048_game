@@ -65,7 +65,7 @@ After starting the project, it will be available at `http://localhost:8080`. Use
 
 ## Example
 
-- [DEMO LINK](https://GoatSpirit.github.io/2048_game/)
+https://GoatSpirit.github.io/2048_game/
 
 ## Technologies Used
 
